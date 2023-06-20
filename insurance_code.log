@@ -1,4 +1,8 @@
-2023-03-18 21:00:25,974 - Insurance Premium Prediction Log - INFO - Data Loaded Succesfully
-2023-03-18 21:04:56,682 - Insurance Premium Prediction Log - INFO - Univariate Analysis Completed 
-2023-03-18 21:05:34,849 - Insurance Premium Prediction Log - INFO - Bivariate Visualization completed Succesfully
-2023-03-18 21:06:18,003 - Insurance Premium Prediction Log - INFO - MultiVariate visualization completed succesfully
+2023-06-20 18:12:40,889 - Insurance Premium Prediction Log - INFO - Data Loaded Succesfully
+2023-06-20 18:13:33,781 - Insurance Premium Prediction Log - INFO - Univariate Analysis Completed 
+2023-06-20 18:13:45,451 - Insurance Premium Prediction Log - INFO - Bivariate Visualization completed Succesfully
+2023-06-20 18:13:56,395 - Insurance Premium Prediction Log - INFO - MultiVariate visualization completed succesfully
+2023-06-20 18:21:52,102 - Insurance Premium Prediction Log - INFO - Data Splitting completed succesfully
+2023-06-20 18:29:23,266 - Insurance Premium Prediction Log - INFO - Encoding completed succesfully
+2023-06-20 18:35:13,128 - Insurance Premium Prediction Log - INFO - Scaling completed succesfully
+2023-06-20 18:49:07,113 - Insurance Premium Prediction Log - INFO - Model Build Successfully completed succesfully
